@@ -1,3 +1,5 @@
+![Application Screenshot](1000001242.jpg)![Application Screenshot](1000001243.jpg)![Application Screenshot](1000001244.jpg)
+
 # Minded Pro
 
 **Minded Pro** is an Android app that connects to a NeuroSky **ThinkGear**
