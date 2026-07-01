@@ -1,0 +1,6 @@
+com.minded.pro.test.app-androidTest-0 D:\eegID_1.6_APKPure.apk_Decompiler.com\minded-pro-app\app\build\generated\res\resValues\androidTest\debug
+com.minded.pro.test.app-updated_navigation_xml-1 D:\eegID_1.6_APKPure.apk_Decompiler.com\minded-pro-app\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.minded.pro.test.app-mergeDebugAndroidTestResources-2 D:\eegID_1.6_APKPure.apk_Decompiler.com\minded-pro-app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.minded.pro.test.app-mergeDebugAndroidTestResources-3 D:\eegID_1.6_APKPure.apk_Decompiler.com\minded-pro-app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.minded.pro.test.app-debugAndroidTest-4 D:\eegID_1.6_APKPure.apk_Decompiler.com\minded-pro-app\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+gradleHome-0 C:\Users\vinny\.gradle

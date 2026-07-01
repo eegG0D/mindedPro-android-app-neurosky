@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Window background shown before Compose draws its first frame. -->
+    <color name="minded_background">#FF100E18</color>
+    <!-- Adaptive launcher-icon background. -->
+    <color name="ic_launcher_background">#FF1C1930</color>
+</resources>

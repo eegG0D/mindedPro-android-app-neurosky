@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FF1C1930</color>
+    <color name="minded_background">#FF100E18</color>
+    <string name="app_name">Minded Pro</string>
+    <style name="Theme.MindedPro" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/minded_background</item>
+        <item name="android:statusBarColor">@color/minded_background</item>
+        <item name="android:navigationBarColor">@color/minded_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
